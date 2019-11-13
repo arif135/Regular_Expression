@@ -6,5 +6,5 @@ re.search()
 re.findall()
 re.split()
 re.sub()
-re.compile()
+re.compile()<br>
 Let’s look at them one by one.
